@@ -87,6 +87,13 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
+            "title": "eLuminous Technologies",
+            "author": "eLuminous",
+            "site_url": "https://eluminoustechnologies.com/blog/category/mobile-apps/ios/",
+            "feed_url": "https://eluminoustechnologies.com/sitemap.xml",
+            "twitter_url": "https://x.com/eluminoustech"
+          },
+          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://gaelfoppolo.com/",
@@ -5376,6 +5383,13 @@
         "slug": "companies",
         "description": "If a blog is published by a company rather than an individual (or group of individuals), but is still related to Apple platform development. This is where you’ll find it!",
         "sites": [
+          {
+            "title": "eLuminous Technologies",
+            "author": "eLuminous",
+            "site_url": "https://eluminoustechnologies.com/blog/category/mobile-apps/ios/",
+            "feed_url": "https://eluminoustechnologies.com/sitemap.xml",
+            "twitter_url": "https://x.com/eluminoustech"
+          },
           {
             "title": "all about apps",
             "author": "all about apps Team",
